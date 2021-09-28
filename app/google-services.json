@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "796701900675",
+    "firebase_url": "https://demoa-6964a-default-rtdb.firebaseio.com",
+    "project_id": "demoa-6964a",
+    "storage_bucket": "demoa-6964a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796701900675:android:c2fb7067b9220452c280b6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796701900675-2fkitmjdcu1cf1cbe7ek0aaaqohk36ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDsezqAs7rqzyXRsGdyJWp44IKLz8n4Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796701900675-2fkitmjdcu1cf1cbe7ek0aaaqohk36ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="citySpinner">
+        <item>Pune</item>
+        <item>Mumbai</item>
+        <item>Ahmedabad</item>
+        <item>Nagpur</item>
+        <item>Banglore</item>
+    </string-array>
+</resources>
